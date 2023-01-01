@@ -1,7 +1,9 @@
 # KHIP1994 GitHub Repository 
 
 - 👋 Hi, I’m @khip1994
-***rPhotographer, developer, and life enthusiast.***.
+
+***Photographer, developer, and life enthusiast.***.
+
 - Based in London in UK  
 - 👀 I’m interested in all things code
 - 🌱 I’m currently self learning fundamentals of Software Development
